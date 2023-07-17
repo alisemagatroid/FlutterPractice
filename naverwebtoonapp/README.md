@@ -29,3 +29,8 @@ Flutter 사전 구성은 Flutter Official Docs를 참조해주세요
 
 
 ## 자주 발생하는 문제점
+
+# 안드로이드 스튜디오 관련
+
+# Window Version 관련
+
