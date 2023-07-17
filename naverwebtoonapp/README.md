@@ -1,6 +1,7 @@
 # 네이버 웹툰 페이지 클론코딩
 
-A new Flutter project.
+유튜버 Nomad coder 님의 강의를 바탕으로 구현한 프로젝트입니다.
+### 음...
 
 ## Getting Started
 
@@ -25,3 +26,6 @@ samples, guidance on mobile development, and a full API reference.
 - Flutter
 
 Flutter 사전 구성은 Flutter Official Docs를 참조해주세요
+
+
+## 자주 발생하는 문제점
